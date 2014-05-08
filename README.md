@@ -1,4 +1,3 @@
-photographer
+Photographer Wordpress theme
 ============
-
-Wordpress theme
+For installation just `clone` this repo into your WP theme folder
